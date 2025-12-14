@@ -46,6 +46,12 @@ brew install ffmpeg
 
 ## 使用方法
 
+进入`src`目录：
+
+```bash
+cd src
+```
+
 ### 方式一：使用命令行参数
 
 将 main.py 文件末尾的代码改为：

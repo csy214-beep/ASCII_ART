@@ -48,6 +48,12 @@ brew install ffmpeg
 
 ## Usage
 
+go to the `src` directory:
+
+```bash
+cd src
+```
+
 ### Method 1: Using Command Line Arguments
 
 Change the code at the end of the main.py file to:
